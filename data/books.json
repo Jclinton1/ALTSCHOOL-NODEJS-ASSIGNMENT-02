@@ -1,0 +1,38 @@
+{
+  "1": {
+    "id": 1,
+    "title": "Harry Porter",
+    "author": "J.K Rowling",
+    "year": 1997
+  },
+  "2": {
+    "id": 2,
+    "title": "Pride and Prejudice",
+    "author": "Jane Austen",
+    "year": 1813
+  },
+  "3": {
+    "id": 3,
+    "title": "The Catcher in the Rye",
+    "author": "J.D. Salinger",
+    "year": 1951
+  },
+  "4": {
+    "id": 4,
+    "title": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "year": 1925
+  },
+  "5": {
+    "id": 5,
+    "title": "Animal Farm",
+    "author": "George Orwell",
+    "year": 1949
+  },
+  "6": {
+    "id": 6,
+    "title": "Harry judas",
+    "author": "J.K bowling",
+    "year": 1957
+  }
+}

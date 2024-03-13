@@ -1,0 +1,7 @@
+Write a simple server to handle the following
+1. GET /books
+2. PUT /books
+3. DELETE /books
+4. GET /books/author/
+5. POST /books/author/
+6. PUT /books/author/
