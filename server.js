@@ -12,7 +12,7 @@ function writeDataToFile(filePath, data) {
     fs.writeFileSync(filePath, JSON.stringify(data, null, 2), 'utf8');
 }
 
-// HTTP server
+
 const server = http.createServer((req, res) => {
     const { method, url, headers } = req;
 
